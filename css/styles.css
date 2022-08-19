@@ -1,0 +1,77 @@
+body {
+  text-align: center;
+  background-color: #C1EFFF;
+}
+hr {
+  border-style: dotted;
+  color: orange;
+  border-bottom: none;
+  width: 5%;
+  border-width: 8px;
+  margin: 50px auto;
+}
+h1 {
+  color: #E8AA42;
+  margin: 50px auto;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  color: #82954B;
+}
+
+p {
+  margin: 50px auto;
+  font-family: 'Merriweather', serif;
+  width: 20rem;
+}
+
+a{
+  text-decoration: none;
+  color: #001D6E;
+  margin: 20px auto;
+  font-family: 'Merriweather', serif;
+}
+img {
+  margin: 50px auto;
+}
+
+/************************************************CLASS**********************************************/
+
+.btn {
+  background: #00eaff;
+  background-image: -webkit-linear-gradient(top, #00eaff, #00ff8c);
+  background-image: -moz-linear-gradient(top, #00eaff, #00ff8c);
+  background-image: -ms-linear-gradient(top, #00eaff, #00ff8c);
+  background-image: -o-linear-gradient(top, #00eaff, #00ff8c);
+  background-image: linear-gradient(to bottom, #00eaff, #00ff8c);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0800fc;
+  background-image: -webkit-linear-gradient(top, #0800fc, #00fbff);
+  background-image: -moz-linear-gradient(top, #0800fc, #00fbff);
+  background-image: -ms-linear-gradient(top, #0800fc, #00fbff);
+  background-image: -o-linear-gradient(top, #0800fc, #00fbff);
+  background-image: linear-gradient(to bottom, #0800fc, #00fbff);
+  text-decoration: none;
+}
+
+.dikey {
+  width: 500px;
+  height: 800px;
+}
+
+.yatay {
+  width: 900px;
+  height: 450px;
+}
